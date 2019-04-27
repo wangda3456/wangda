@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^4.0.1"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
