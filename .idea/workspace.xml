@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7256521f-2b92-4c38-9320-abb07087d12e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7256521f-2b92-4c38-9320-abb07087d12e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/test">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -149,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556373247821</updated>
       <workItem from="1556373251707" duration="1610000" />
-      <workItem from="1557918300953" duration="1427000" />
+      <workItem from="1557918300953" duration="1641000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1556374935541</created>
@@ -186,11 +184,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557919570991</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=":wrench:test">
+      <created>1557919879146</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557919879146</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3037000" />
+    <option name="totallyTimeSpent" value="3251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -262,7 +267,8 @@
     <MESSAGE value=":sparkles:" />
     <MESSAGE value=":rocket:" />
     <MESSAGE value=":rocket:test" />
-    <option name="LAST_COMMIT_MESSAGE" value=":rocket:test" />
+    <MESSAGE value=":wrench:test" />
+    <option name="LAST_COMMIT_MESSAGE" value=":wrench:test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test">
@@ -275,7 +281,7 @@
     <entry file="file://$PROJECT_DIR$/test">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
