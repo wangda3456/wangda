@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7256521f-2b92-4c38-9320-abb07087d12e" name="Default" comment="hggh">
+    <list default="true" id="7256521f-2b92-4c38-9320-abb07087d12e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
     </list>
@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/test">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -150,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556373247821</updated>
       <workItem from="1556373251707" duration="1610000" />
-      <workItem from="1557918300953" duration="548000" />
+      <workItem from="1557918300953" duration="752000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1556374935541</created>
@@ -159,14 +159,29 @@
       <option name="project" value="LOCAL" />
       <updated>1556374935541</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=":sparkles:">
+      <created>1557918945382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557918945383</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":rocket:">
+      <created>1557919067918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557919067918</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2158000" />
+    <option name="totallyTimeSpent" value="2362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -205,7 +220,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sss" />
-    <option name="LAST_COMMIT_MESSAGE" value="sss" />
+    <MESSAGE value=":sparkles:" />
+    <MESSAGE value=":rocket:" />
+    <option name="LAST_COMMIT_MESSAGE" value=":rocket:" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test">
@@ -218,7 +235,7 @@
     <entry file="file://$PROJECT_DIR$/test">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
